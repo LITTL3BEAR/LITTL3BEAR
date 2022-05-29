@@ -1,4 +1,4 @@
-![Snake](https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg){ width=50% }
+![Snake](https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg)
 <img src="https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%"/>
 
 ## Frameworks
