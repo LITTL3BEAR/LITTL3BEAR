@@ -3,9 +3,6 @@
   <img src="gitartwork.svg">
 </p>
 
-![gitartwork](gitartwork.svg)
-
-
 ## Frameworks
 ![Angular](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/angular.svg)
 ![Bootstrap](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg)
