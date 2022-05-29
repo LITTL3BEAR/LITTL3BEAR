@@ -1,5 +1,4 @@
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)<br>
 ![gitartwork](gitartwork.svg)<br>
 
 ## Frameworks
