@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align="center" src="gitartwork.svg">
+  <img src="gitartwork.svg">
 </p>
 
 ![gitartwork](gitartwork.svg)
