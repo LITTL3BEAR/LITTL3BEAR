@@ -1,3 +1,4 @@
+# Hi there 👋
 <img alt="Snake" src="https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg"  width="100%"/>
 
 ## Frameworks
