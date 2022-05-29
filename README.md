@@ -1,6 +1,6 @@
-### Hi there 👋
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
 <!--
 **LITTL3BEAR/LITTL3BEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
