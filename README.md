@@ -1,7 +1,7 @@
 # Hi there 👋
 <img alt="Snake" src="https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg"  width="100%"/>
 
-### Frameworks
+## Frameworks
 ![Angular](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/angular.svg)
 ![Bootstrap](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg)
 ![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg)
