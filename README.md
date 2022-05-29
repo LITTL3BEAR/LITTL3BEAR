@@ -1,6 +1,4 @@
-<img lign="center">
-src="gitartwork.svg"
-</img>
+<img lign="center" src="gitartwork.svg">
 
 
 ## Frameworks
