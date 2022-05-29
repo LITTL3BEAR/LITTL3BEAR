@@ -1,4 +1,4 @@
-<img lign="center" src="gitartwork.svg">
+<img align="center" src="gitartwork.svg">
 
 
 ## Frameworks
