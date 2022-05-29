@@ -1,10 +1,9 @@
-<img align="center" src="gitartwork.svg">
-<img lign="center">
 
-</img>
 <p align="center">
-![gitartwork](gitartwork.svg)
+<img align="center" src="gitartwork.svg">
 </p>
+
+![gitartwork](gitartwork.svg)
 
 
 ## Frameworks
