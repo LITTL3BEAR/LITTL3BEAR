@@ -1,6 +1,6 @@
-<p lign="center">
-![gitartwork](gitartwork.svg)<br>
-</p>
+<img lign="center">
+src="gitartwork.svg"
+</img>
 
 
 ## Frameworks
