@@ -1,5 +1,4 @@
-![Snake](https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg)
-<img src="https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="100%"/>
+<img alt="Snake" src="https://github.com/LITTL3BEAR/LITTL3BEAR/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
 ## Frameworks
 ![Angular](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/angular.svg)
