@@ -8,11 +8,11 @@ Passionate about building scalable web applications, APIs, and clean UI/UX inter
 
 #### 🧠 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -20,8 +20,8 @@ Passionate about building scalable web applications, APIs, and clean UI/UX inter
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🛢️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
@@ -42,9 +42,3 @@ Passionate about building scalable web applications, APIs, and clean UI/UX inter
 ### 📫 Let's Connect
 - 🌐 Portfolio: *[yourdomain.com or coming soon]*
 - 📧 Email: your.email@example.com
-- 🧭 Location: Thailand (UTC+7)
-
----
-
-### 💡 Fun Fact  
-I love working with new IDE tools like **Cursor AI**, automating development workflows, and experimenting with minimal but powerful UI frameworks like **Tailwind CSS**.
