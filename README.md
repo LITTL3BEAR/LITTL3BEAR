@@ -40,5 +40,5 @@ Passionate about building scalable web applications, APIs, and clean UI/UX inter
 ---
 
 ### 📫 Let's Connect
-- 🌐 Portfolio: coming soon
+- 🌐 Portfolio: *coming soon*
 - 📧 Email: 4clover.club@gmail.com
